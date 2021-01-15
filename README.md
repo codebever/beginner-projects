@@ -20,8 +20,8 @@
   
   <h2 id="projects">Projects</h2>
   
-  <p2 class="project-title">- Web Page </p2>
+  <p2 class="project-title" href="https://github.com/codebever/beginner-projects" target="_blank">- Web Page </p2>
   
-  <a id="project-link" href="https://github.com/codebever/beginner-projects" target="_blank"> Project here</a>
+  <a>Mario Tribute Page <div id="project-link" href="https://github.com/codebever/beginner-projects/blob/main/tribute%20to%20Mario" target="_blank"> here</div></a>
   
 </main>
