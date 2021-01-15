@@ -1,24 +1,5 @@
 # beginner-projects
-p2{
-  text-align: left;
-  font-size: 40px;
-  padding-top: 40px;
-  padding-left: 60px;
-}
 
-img{
- width: var(--eevee-pic, 400px);
-}
-
-:root {
-  --eevee-pic: 400px;
-}
-
-@media (max-width: 450px){
-  :root{
-    --eevee-pic: 200px;
-  }
-}
 <nav id="navbar">
   
   <a href="#welcome-section"> back to top </a>
