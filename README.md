@@ -22,6 +22,6 @@
   
   <p2 class="project-title">- Web Page </p2>
   
-  <a id="project-link" href="https://www.youtube.com/watch?v=hnTskfd16A0" target="_blank"> Project here</a>
+  <a id="project-link" href="https://github.com/codebever/beginner-projects" target="_blank"> Project here</a>
   
 </main>
