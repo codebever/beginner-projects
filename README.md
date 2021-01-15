@@ -12,16 +12,16 @@
   
 
   
-<p1> Hey! Thanks for visiting my portfolio page. My name is code and im looking for new skills to better myself for the future. </p1>
+<p> Hey! Thanks for visiting my portfolio page. My name is code and im looking for new skills to better myself for the future. </p>
 
   <a href="https://github.com/codebever" target="_blank"> Github</a>
   
 <main>
   
-  <h2 id="projects">Projects</h2>
-  
+  <div id="projects">Projects</div>
+ 
   <a class="web-title" href="https://github.com/codebever/beginner-projects" target="_blank">- Web Page </a>
   
-  <p2>Mario Tribute Page</p2> <a id="project-link" href="https://github.com/codebever/beginner-projects/blob/main/tribute%20to%20Mario" target="_blank"> here</a>
+  <p>Mario Tribute Page</p2> <a id="project-link" href="https://github.com/codebever/beginner-projects/blob/main/tribute%20to%20Mario" target="_blank"> here</p>
   
 </main>
