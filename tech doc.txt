@@ -1,0 +1,80 @@
+  <nav id="navbar">
+    <p>CPU Review</p>
+    <a href="#title_1" class="nav-link"> components</a>
+    <a href="#title_2" class="nav-link"> tempatures</a>
+    <a href="#title_3" class="nav-link"> frequency</a>
+  </nav>
+<main id="main-doc">
+ 
+
+  
+  <section class="main-section" id="title_1">
+    
+    <h>components</h>
+    
+    <p> Words and stuff about what CPUs are made of. </p>
+    <p> Even more stuff about what is inside a CPU!!</p>
+    <p><img src="https://image.shutterstock.com/image-illustration/innovative-idea-creative-modern-digital-600w-1713014392.jpg" id="image" class="image-size"></p>
+    <code>Im not really sure what goes into the code elements...</code>
+    <code> Still not quite sure what goes here.</code>
+    <li>listing a few components</li>
+    <li> such as what makes chips, and what metals are used</li>
+      
+  </section>
+  
+  <section class="main-section"id="title_2">
+    
+    <h>tempatures</h>
+    <p></p>
+    <p></p>
+    <p></p>
+    <code></code>
+    <code></code>
+    <li></li>
+    <li></li>
+      
+  </section>
+  
+  <section class="main-section" id-="title_3">
+    
+    <h>frequency</h>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <code></code>
+    <li></li>
+      
+  </section>
+        
+</main>
+<style>
+nav{
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+  position: fixed;
+}
+p{
+  font-size: 25px;
+}
+main{
+  padding: 150px;
+  font-size: 30px;
+}
+
+h{
+  font-size: 50px;
+}
+:root {
+  --image-size: 300px;
+}
+@media (max-width: 350px){
+  :root {
+    --image-size: 100px;
+  }
+}
+.image-size{
+  width: var(--image-size, 300px)
+}
+</style>
