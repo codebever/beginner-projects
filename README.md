@@ -6,7 +6,7 @@
   
 </nav>
 
-<h1 id="welcome-section">Welcome</h>
+<h id="welcome-section">Welcome</h>
 
 <div><img class="eevee-pic" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png" alt="eevee looking cute"><div>
   
@@ -20,8 +20,8 @@
   
   <h2 id="projects">Projects</h2>
   
-  <p2 class="project-title" href="https://github.com/codebever/beginner-projects" target="_blank">- Web Page </p2>
+  <a class="web-title" href="https://github.com/codebever/beginner-projects" target="_blank">- Web Page </a>
   
-  <a>Mario Tribute Page <div id="project-link" href="https://github.com/codebever/beginner-projects/blob/main/tribute%20to%20Mario" target="_blank"> here</div></a>
+  <p2>Mario Tribute Page</p2> <a id="project-link" href="https://github.com/codebever/beginner-projects/blob/main/tribute%20to%20Mario" target="_blank"> here</a>
   
 </main>
