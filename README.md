@@ -14,7 +14,7 @@
   
 <p1> Hey! Thanks for visiting my portfolio page. My name is code and im looking for new skills to better myself for the future. </p1>
 
-  <a href="https://github.com/" target="_blank"> Github</a>
+  <a href="https://github.com/codebever" target="_blank"> Github</a>
   
 <main>
   
