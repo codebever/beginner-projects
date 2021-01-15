@@ -22,6 +22,6 @@
  
   <a class="web-title" href="https://github.com/codebever/beginner-projects" target="_blank">- Web Page </a>
   
-  <p>Mario Tribute Page</p2> <a id="project-link" href="https://github.com/codebever/beginner-projects/blob/main/tribute%20to%20Mario" target="_blank"> here</p>
+  <p>- Mario Tribute Page</p2> <a id="project-link" href="https://github.com/codebever/beginner-projects/blob/main/tribute%20to%20Mario" target="_blank"> here</p>
   
 </main>
