@@ -1,0 +1,72 @@
+
+<main id="main">
+  <h id="title">A Tribute to a great freind
+  </h>
+  
+	
+  <div id="img-div">
+  
+    <img id="image" src= "https://www.gamasutra.com/db_area/images/news/2018/Jun/320213/supermario64thumb1.jpg">
+      <h2 id="img-caption">
+      Mario throwing up a peace sign
+    </h2>
+ 
+  </div>
+     
+  <p id="tribute-info"> Mario has been a great freind for may of us over this hard time. With his never ending joyfull attitude and his determination to get what he started finished. He has been a great idol showing us that even during the hardest of times we can persevere with a smile on our face.
+ </p>
+ <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Mario"> Here we Go!
+ </a>
+  
+</main>
+	
+body{
+  text-align: center;
+}
+h {
+		font-family: Lobster, monospace;
+  }
+
+#main { 
+		color: white; 
+  }
+
+#title{ 
+		color: black;
+		font-size: 30px;
+    
+  }
+
+#img-div{
+  
+}
+	
+#image{
+  top: 50px;
+  bottom: 10px;
+  max-width: 100%;
+  height: auto;
+  
+ }
+	
+#img-caption{
+		color: black;
+		font-size: 16px;
+}
+
+#tribute-info{
+		color: black;
+		font-size: 16px;
+}
+
+#tribute-link: {
+		font-size: 16px;
+    color: black;
+}
+   
+a:hover{
+  color: red;
+}
+	
+	
+	
